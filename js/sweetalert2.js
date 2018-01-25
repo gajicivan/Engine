@@ -1,3 +1,6 @@
+/*gabi je najlepsa*/
+
+
 /*!
  * sweetalert2 v6.6.2
  * Released under the MIT License.
