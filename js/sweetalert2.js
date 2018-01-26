@@ -1,4 +1,4 @@
-/*gabi je najlepsa i tackica*/
+/*gabi je najlepsa*/
 
 
 /*!
